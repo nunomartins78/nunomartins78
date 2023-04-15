@@ -1,10 +1,5 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/122387013/232248931-2caa0580-198e-44dc-8da6-0a43039cf684.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="my-LinkdIn-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></div>
 </div>
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=nunomartins78&style=flat-square&color=blue" alt=""/>
@@ -13,8 +8,13 @@
   Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/122387013/232248931-2caa0580-198e-44dc-8da6-0a43039cf684.gif" width="100"/>
+<div id="badges" align="center">
+  <a href="my-LinkdIn-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
+<div align="left">
 <hr>
 ### :man_technologist: About Me :
 

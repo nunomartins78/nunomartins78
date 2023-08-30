@@ -22,7 +22,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :telescope: I’m working as an English translator but looking for an opportunity to work in software development.
 
-- :seedling: Undergoing a Full Stack Boot Camp at Mindera Code Academy.
+- :seedling: Successfully completed a Full Stack Boot Camp at Mindera Code Academy.
 
 - :zap: In my free time, I practice my skills at home and watch anime 🙂
 
